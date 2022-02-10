@@ -1,0 +1,16 @@
+n=int(input())
+if n>0:
+    print('positive')
+else:
+    print('negative')
+    
+    
+    
+    Output:1
+    10
+    positive
+
+
+    Output:2
+    -20
+    negative
